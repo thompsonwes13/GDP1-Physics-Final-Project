@@ -1,2 +1,8 @@
 # GDP1 Physics Final Project
- Used a custom physics engine to emulate flying a spaceship with velocity and acceleration through a level containing complex geometry. Integrated a hierarchical bounding box system to subdivide collision detection across hundreds of thousands of faces.
+ 
+Build and Run in x64 Release
+
+Controls:
+
+WASDQE: Propel ship in different directions (change velocity)
+Click + Drag mouse: Turn camera 
